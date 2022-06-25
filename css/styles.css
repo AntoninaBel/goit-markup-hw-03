@@ -57,6 +57,7 @@ img {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  letter-spacing: 0.03em;
 }
 .logo-part {
   color: var(--accent-color);
@@ -79,6 +80,7 @@ img {
   color: var(--second-text-color);
   font-weight: 500;
   line-height: calc(16 / 14);
+  letter-spacing: 0.02em;
 }
 .current {
   color: var(--accent-color);
@@ -117,6 +119,7 @@ img {
   font-size: 44px;
   line-height: calc(60 / 44);
   text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 .hero-btn {
   display: inline-block;
@@ -131,6 +134,7 @@ img {
   font-weight: 700;
   font-size: 16px;
   line-height: calc(30 / 16);
+  letter-spacing: 0.06em;
   text-align: center;
   cursor: pointer;
 }
@@ -168,6 +172,7 @@ img {
   color: var(--second-text-color);
   font-weight: 700;
   line-height: calc(16 / 14);
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .benefits-item-desc {
@@ -190,6 +195,7 @@ img {
   font-weight: 700;
   font-size: 36px;
   line-height: calc(42 / 36);
+  letter-spacing: 0.03em;
   text-align: center;
 }
 
@@ -224,11 +230,13 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: calc(19 / 16);
+  letter-spacing: 0.03em;
 }
 .team-prof {
   color: var(--primary-text-color);
   font-size: 16px;
   line-height: calc(19 / 16);
+  letter-spacing: 0.03em;
 }
 /* footer */
 
@@ -246,12 +254,14 @@ img {
   color: var(--main-color);
   font-style: normal;
   line-height: calc(24 / 14);
+  letter-spacing: 0.03em;
 }
 .address-link {
   color: var(--footer-text);
   font-style: normal;
   font-weight: 400;
   line-height: calc(24 / 14);
+  letter-spacing: 0.03em;
 }
 
 /* portfolio */
@@ -275,6 +285,7 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: calc(26 / 16);
+  letter-spacing: 0.03em;
   text-align: center;
   border-radius: 4px;
   border: none;
@@ -310,9 +321,11 @@ img {
   font-weight: 700;
   font-size: 18px;
   line-height: calc(36 / 18);
+  letter-spacing: 0.06em;
 }
 .portfolio-desc {
   color: var(--primary-text-color);
   font-size: 16px;
   line-height: calc(30 / 16);
+  letter-spacing: 0.03em;
 }
