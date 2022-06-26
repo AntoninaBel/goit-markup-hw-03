@@ -112,8 +112,9 @@ img {
   background-color: var(--footer-bg);
 }
 .hero-title {
-  margin-top: 0;
-  margin-bottom: 33px;
+  width: 696px;
+  margin: auto;
+  margin-bottom: 48px;
   color: var(--main-color);
   font-weight: 900;
   font-size: 44px;
@@ -168,9 +169,10 @@ img {
 }
 
 .benefits-item-title {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   color: var(--second-text-color);
   font-weight: 700;
+  font-size: 14px;
   line-height: calc(16 / 14);
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -178,9 +180,13 @@ img {
 .benefits-item-desc {
   color: var(--primary-text-color);
   line-height: calc(24 / 14);
+  letter-spacing: 0.03em;
 }
 
 /* Section works */
+.works {
+  padding-bottom: 94px;
+}
 .works-list {
   display: flex;
   flex-wrap: wrap;
